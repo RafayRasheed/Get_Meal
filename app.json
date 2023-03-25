@@ -3,8 +3,15 @@
     "name": "Get_Meal",
     "slug": "Get_Meal",
     "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./components/assets/icon.png",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "a352c221-624e-49a0-9000-440fc2b53c13"
+      }
+    }
   }
 }
