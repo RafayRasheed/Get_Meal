@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Get_Meal",
+    "slug": "Get_Meal",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
